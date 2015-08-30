@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="distanceRope">25dp</dimen>
+    <dimen name="distanceRope2">50dp</dimen>
+    <dimen name="ropeHeight">250dp</dimen>
+    <dimen name="ropeHeight2">275dp</dimen>
+    <dimen name="icon_size">80dp</dimen>
+    <dimen name="icon_clear">30dp</dimen>
+    <dimen name="icon_play">40dp</dimen>
+</resources>

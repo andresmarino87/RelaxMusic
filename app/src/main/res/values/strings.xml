@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="no_more_than_3">No more than 3 sounds can be played</string>
+    <string name="blanc"></string>
+    <string name="image_tag">image_tag</string>
+    <string name="app_name">Relax Music</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

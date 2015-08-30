@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/debug/classes-6d356d609157f289b225b00994452a0b3e242bfd.jar" />
+    </item>
+    <item
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-779831360fc820240c6fa8fa9dd6ceadf74df18f.jar" />
+    </item>
+    <item
+        jar="/Users/kate/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" />
+    </item>
+
+</items>
