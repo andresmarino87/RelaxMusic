@@ -23,6 +23,7 @@ public final class R {
         public static final int icon_size=0x7f060006;
         public static final int ropeHeight=0x7f060007;
         public static final int ropeHeight2=0x7f060008;
+        public static final int rope_margin_left=0x7f060009;
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
@@ -35,14 +36,14 @@ public final class R {
         public static final int playButton=0x7f09000d;
         public static final int relativeid=0x7f090002;
         public static final int sound1=0x7f090005;
-        public static final int sound2=0x7f090008;
-        public static final int sound3=0x7f09000b;
+        public static final int sound2=0x7f090006;
+        public static final int sound3=0x7f090009;
         public static final int sound4=0x7f090004;
-        public static final int sound5=0x7f090007;
-        public static final int sound6=0x7f09000a;
+        public static final int sound5=0x7f090008;
+        public static final int sound6=0x7f09000b;
         public static final int sound7=0x7f090003;
-        public static final int sound8=0x7f090006;
-        public static final int sound9=0x7f090009;
+        public static final int sound8=0x7f090007;
+        public static final int sound9=0x7f09000a;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;

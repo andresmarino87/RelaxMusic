@@ -35,7 +35,7 @@
                 android:id="@+id/sound4"
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
-				android:layout_centerHorizontal="true"
+                android:layout_centerHorizontal="true"
                 android:layout_below="@+id/sound1"
                 android:layout_marginTop="@dimen/distanceRope"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
@@ -44,16 +44,18 @@
                 android:id="@+id/sound1"
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
-				android:layout_centerHorizontal="true"
+                android:layout_centerHorizontal="true"
                 android:layout_marginTop="@dimen/distanceRope"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
             <ImageView
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/ropeHeight"
-                android:layout_centerHorizontal="true"
                 android:contentDescription="@string/blanc"
-                android:tag="@string/image_tag" />
+                android:layout_marginLeft="@dimen/rope_margin_left"
+                android:layout_toRightOf="@+id/sound1"
+                android:tag="@string/image_tag"
+                android:layout_alignParentTop="true" />
 
         </RelativeLayout>
 
@@ -66,8 +68,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/ropeHeight2"
                 android:layout_alignParentTop="true"
-                android:layout_centerHorizontal="true"
                 android:contentDescription="@string/blanc"
+                android:layout_marginLeft="@dimen/rope_margin_left"
+                android:layout_toRightOf="@+id/sound2"
                 android:tag="@string/image_tag" />
 
             <TextView
@@ -75,7 +78,7 @@
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
                 android:layout_centerHorizontal="true"
-				android:layout_marginTop="@dimen/distanceRope"
+                android:layout_marginTop="@dimen/distanceRope"
                 android:layout_below="@+id/sound5"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
@@ -84,53 +87,55 @@
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
                 android:layout_alignParentTop="true"
-                 android:layout_centerHorizontal="true"
-				android:layout_marginTop="@dimen/distanceRope2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/distanceRope2"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
             <TextView
                 android:id="@+id/sound5"
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
-				android:layout_centerHorizontal="true"
-				android:layout_marginTop="@dimen/distanceRope"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/distanceRope"
                 android:layout_below="@+id/sound2"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
         </RelativeLayout>
 
-         <RelativeLayout
-             android:layout_width="0dp"
-             android:layout_height="match_parent"
-             android:layout_weight="1" >
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
 
-             <ImageView
-                 android:layout_width="wrap_content"
-				 android:layout_height="@dimen/ropeHeight"
-                 android:layout_alignParentTop="true"
-                 android:layout_centerHorizontal="true"
-                 android:contentDescription="@string/blanc"
-                 android:tag="@string/image_tag" />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/ropeHeight"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:contentDescription="@string/blanc"
+                android:layout_marginLeft="@dimen/rope_margin_left"
+                android:layout_toRightOf="@+id/sound3"
+                android:tag="@string/image_tag" />
 
-             <TextView
+            <TextView
                 android:id="@+id/sound9"
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
                 android:layout_centerHorizontal="true"
-				android:layout_marginTop="@dimen/distanceRope"
+                android:layout_marginTop="@dimen/distanceRope"
                 android:layout_below="@+id/sound6"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
-             <TextView
+            <TextView
                 android:id="@+id/sound6"
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
-       	        android:layout_below="@+id/sound3"
+                android:layout_below="@+id/sound3"
                 android:layout_centerHorizontal="true"
                 android:layout_marginTop="@dimen/distanceRope"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
-             <TextView
+            <TextView
                 android:id="@+id/sound3"
                 android:layout_width="@dimen/icon_size"
                 android:layout_height="@dimen/icon_size"
@@ -139,12 +144,12 @@
                 android:layout_alignParentTop="true"
                 android:textAppearance="?android:attr/textAppearanceMedium" />
 
-         </RelativeLayout>
+        </RelativeLayout>
     </LinearLayout>
     <RelativeLayout
         android:id="@+id/generalButtonsLayout"
         android:layout_width="fill_parent"
-        android:layout_height="150dp"
+        android:layout_height="170dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:gravity="center"

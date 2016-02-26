@@ -11,6 +11,7 @@
     <dimen name="icon_size">80dp</dimen>
     <dimen name="ropeHeight">250dp</dimen>
     <dimen name="ropeHeight2">275dp</dimen>
+    <dimen name="rope_margin_left">-50dp</dimen>
     <!-- From: file:/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>

@@ -2,13 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.0"
-        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/debug/classes-6d356d609157f289b225b00994452a0b3e242bfd.jar" />
-    </item>
-    <item
         jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="23.0.0"
@@ -21,6 +14,13 @@
         revision="23.0.0"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
         <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" />
+    </item>
+    <item
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/debug/classes-6d356d609157f289b225b00994452a0b3e242bfd.jar" />
     </item>
 
 </items>
