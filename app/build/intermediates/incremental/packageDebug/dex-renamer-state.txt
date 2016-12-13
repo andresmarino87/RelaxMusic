@@ -1,0 +1,7 @@
+#Tue Dec 13 09:00:09 VET 2016
+base.0=/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49c3a2fe2b35836e87b8b9891e7b81107eb55172
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff55204f43eb49b4c9f50b298824d9b92cc70800/classes.dex
+base.1=/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff55204f43eb49b4c9f50b298824d9b92cc70800
+file.0=/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49c3a2fe2b35836e87b8b9891e7b81107eb55172/classes.dex

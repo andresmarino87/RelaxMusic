@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="distanceRope">25dp</dimen>
+    <dimen name="distanceRope2">50dp</dimen>
+    <dimen name="icon_clear">30dp</dimen>
+    <dimen name="icon_play">40dp</dimen>
+    <dimen name="icon_size">80dp</dimen>
+    <dimen name="ropeHeight">250dp</dimen>
+    <dimen name="ropeHeight2">275dp</dimen>
+    <dimen name="rope_margin_left">-50dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Relax Music</string>
+    <string name="blanc"/>
+    <string name="image_tag">image_tag</string>
+    <string name="no_more_than_3">No more than 3 sounds can be played</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

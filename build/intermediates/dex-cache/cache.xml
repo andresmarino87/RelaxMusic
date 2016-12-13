@@ -2,25 +2,89 @@
 <items version="2" >
 
     <item
+        is-multidex="true"
         jar="/Users/kate/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
-        jumboMode="false"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.0"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-d705c81f6dab633ec48b3ea986efb76eb51a037a.jar" />
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_d705c81f6dab633ec48b3ea986efb76eb51a037a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_6d356d609157f289b225b00994452a0b3e242bfd/classes.dex" />
     </item>
     <item
         jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/classes.jar"
-        jumboMode="false"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.0"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/release/classes-6d356d609157f289b225b00994452a0b3e242bfd.jar" />
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-21.0.3_6d356d609157f289b225b00994452a0b3e242bfd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6327cd40bb81da4d0e9cbe19c14de37fe8df9c58">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49c3a2fe2b35836e87b8b9891e7b81107eb55172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4f6da4d433e9a694dc0478d94e65c3c40b10f7ad">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_49c3a2fe2b35836e87b8b9891e7b81107eb55172/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f98a47741e1ca7cc6898688bec9ed2de3d89572d">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff55204f43eb49b4c9f50b298824d9b92cc70800/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="352006b4470fe804fae86f66282ee64b2290f224">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ff55204f43eb49b4c9f50b298824d9b92cc70800/classes.dex" />
+    </item>
+    <item
+        jar="/Users/kate/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-21.0.3_d705c81f6dab633ec48b3ea986efb76eb51a037a/classes.dex" />
     </item>
     <item
         jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
-        jumboMode="false"
+        jumboMode="true"
+        optimize="true"
         revision="23.0.0"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-779831360fc820240c6fa8fa9dd6ceadf74df18f.jar" />
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_779831360fc820240c6fa8fa9dd6ceadf74df18f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/kate/Dropbox/Deveps/Android/RelaxMusic/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-21.0.3_779831360fc820240c6fa8fa9dd6ceadf74df18f/classes.dex" />
     </item>
 
 </items>

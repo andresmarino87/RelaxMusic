@@ -3,7 +3,7 @@
     android:id="@+id/background"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.relaxmusic.MainActivity" >
+    tools:context="com.relaxmusic.activities.MainActivity" >
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
